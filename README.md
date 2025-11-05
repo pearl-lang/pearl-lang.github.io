@@ -1,2 +1,2 @@
-# pearl-lang.github.io
-pearl information static site using jekyll
+# [pearl-lang.github.io](https://pearl-lang.github.io)
+Pearl language static site.
